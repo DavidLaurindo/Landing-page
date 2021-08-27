@@ -4,6 +4,9 @@
  ### Links
 
  Google fontes: https://fonts.google.com/
+ Imagens: https://www.svgbackgrounds.com/
+
+ Validação: https://validator.w3.org/nu/#textarea
 
  ### Fontes
 
