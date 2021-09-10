@@ -50,3 +50,15 @@ a{
 p{
     margin-bottom: 2rem;
 }
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table td, table th{
+    padding: 0.5rem;
+    text-align: left;
+    border: 0.1rem solid var(--light-gray-color);
+}
+tfoot td, table th{
+    background: var(--light-gray-color);
+}
